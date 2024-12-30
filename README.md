@@ -1,3 +1,1 @@
-Caltech PostGraduate AI & ML Program Capstone Project
-
-Data Analysis & Sales Forecast With Linear Regression, Random Forest, XGBoost, RNN LSTM and Prophet Models
+My Approved Capstone Project From Caltech PostGraduate AI & ML Program For Data Analysis & Sales Forecast With Linear Regression, Random Forest, XGBoost, RNN LSTM and Prophet Models
